@@ -8,8 +8,13 @@
 ## Projects
 
 **Machine Learning und Large Language Modell comparision in a kidney dataset with data anomalies**
+Skills:
+- Jupyther Notebook
+- 
+
 
 **Building Reports**
+
 
 **Creating a Story**
 Skills:
@@ -25,12 +30,7 @@ Skills:
 - HTML
 - Vue
 - CSS
-
-**Pokemon Card Website**
-For this project I used an pokemon API to get the information about the pokemons.
-Skills:
-- Typescript
-- Vue?
+- Database
 
 **Data Mining from Jobs opportunities which we can apply for after graduating bachelor**
 Skills
