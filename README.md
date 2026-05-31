@@ -2,11 +2,11 @@
 **Data Analyst | B.Sc. Student Online Media**  
 📍 Germany | [🌐 LinkedIn](DEIN_LINKEDIN_LINK) | [💻 GitHub](https://github.com/OliwiaLili)
 
+---
 
 ###👤 Profile
 Analytical Data Analyst with a solid foundation in Software Development and an academic focus on Computer Science and Marketing. Specializing in leveraging data science methodologies to bridge the gap between technical data pipelines and strategic business insights.
 
----
 
 ### 🎓 Education 
 
@@ -17,7 +17,6 @@ Analytical Data Analyst with a solid foundation in Software Development and an a
 * **09/2014 - 07/2020**  
   **Jacob-Ellrod-Realschule** | Secondary School Certificate *(Mittlere Reife)*
 
----
 
 ### 💼 Experience
 
@@ -25,7 +24,6 @@ Analytical Data Analyst with a solid foundation in Software Development and an a
   **awinta GmbH** | Long-term Intern (Part-time, 1 day/week)
   * Gained initial insights into software structures, database workflows, and IT environments parallel to secondary school.
 
----
 
 ### 🛠️ Technical Skills
 
@@ -34,14 +32,14 @@ Analytical Data Analyst with a solid foundation in Software Development and an a
 * **Tools & DevOps:** Git/GitHub, Docker, Jupyter Notebooks
 * **Frameworks & Methods:** Agile Software Development (Scrum), Cross-Cultural Collaboration
 
----
 
-# 🚀 Key Projects
+# Key Projects
+---
 
 ### 🌟 Featured Projects
 
 * **Board Games Analysis Dashboard**  
-  Interactive data analysis and visualization of the BoardGameGeek dataset to uncover trends in game mechanics, categories, and user ratings.  
+  Interactive data analysis and visualization of the BoardGameGeek dataset to uncover trends in average playtime, categories, and game mode.  
   👉 [View Repository](https://github.com/OliwiaLili/Boardgame_dataset_with_story-dashboard)
 
 * **ML & LLM Imputation Analysis**  
