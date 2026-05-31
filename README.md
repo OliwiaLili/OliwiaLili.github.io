@@ -1,17 +1,36 @@
-### Oliwia Szczerba
----
+# Oliwia Szczerba
+
 **Data Analyst | B.Sc. Student Online Media**  
-📍 Germany | [🌐 LinkedIn](DEIN_LINKEDIN_LINK) | [💻 GitHub](https://github.com/OliwiaLili)
+📍 Germany | [🌐 LinkedIn](www.linkedin.com/in/oliwia-szczerba-651499376) | [💻 GitHub](https://github.com/OliwiaLili)
 
 
 ### 👤 Profile
-Analytical Data Analyst with a solid foundation in Software Development and an academic focus on Computer Science and Marketing. Specializing in leveraging data science methodologies to bridge the gap between technical data pipelines and strategic business insights.
+academic focus on Computer Science and Marketing
+during my studies i developed a interest in data analyst and tryed to build through group projects or solo-projects a strong foundation for analysticsal thinking.
+i am a very curious person and like to try new acitivties and also to teach myself new topics.  
+
+
+I am a Analytical Data Analyst with a solid foundation in Software Development and an academic focus on Computer Science and Marketing. Specializing in leveraging data science methodologies to bridge the gap between technical data pipelines and strategic business insights.
 
 ### 💼 Experience
 
-* **09/2018 - 02/2019**  
-  **awinta GmbH** | Long-term Intern (Part-time, 1 day/week)
-  * Gained initial insights into software structures, database workflows, and IT environments parallel to secondary school.
+**Conrad Electronic SE** | *Dual Study Program Rotations (09/2023 - 10/2026):*
+* **DevOps & Software Evaluation (6th Phase):** Writing Bachelor's Thesis: *"Evaluation of AI for Conducting Black-Box Testing"*.
+* **DevOps & Cloud Engineering (5th Phase):** Hands-on experience with Kubernetes environments.
+* **SEO & Web Content Analytics (4th Phase):** Automated manual analytical tasks. Visualized e-commerce shop performance and data trends using **Looker Studio** and **Google Analytics**.
+* **Marketplace Strategy (3rd Phase):** Analyzed partner shop integrations and marketplace structures.
+* **Data-Service & Engineering (2nd Phase):** Containerization and image creation utilizing **Docker**.
+* **E-Commerce Marketing (1st Phase):** Conducted keyword research and created digital shopping guides.
+
+**Speed4Trade GmbH** | *Graduate Intern (2023)*
+* 6-month internship including the completion of the final software engineering thesis.
+
+**awinta GmbH** | *Long-term IT Intern (09/2018 - 02/2019)*
+* Gained initial insights into software environments and IT workflows (1 day/week parallel to school).
+
+**Additional Relevant IT Internships:**
+* **TMT GmbH & Co. KG** (2019) | IT & Software Development Insights
+* **ISPEX AG** (2019) | Technical Environment Insights
 
 
 ### 🎓 Education 
@@ -27,12 +46,12 @@ Analytical Data Analyst with a solid foundation in Software Development and an a
 ### 🛠️ Technical Skills
 
 * **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL, Java, Javascript, C#
-* **Data Visualization:** Tableau, Matplotlib, Seaborn
-* **Tools & DevOps:** Git/GitHub, Docker, Jupyter Notebooks
+* **Data Visualization:** Tableau, Matplotlib, Seaborn, Looker Studio, Google Analytics
+* **Tools & DevOps:** Git/GitHub, Docker, Kubernetes, Git/GitHub, Jupyter Notebooks
 * **Frameworks & Methods:** Agile Software Development (Scrum)
 
 
-# Key Projects
+## Key Projects
 
 
 ### 🌟 Featured Projects
