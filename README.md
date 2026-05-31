@@ -2,7 +2,7 @@
 **Data Analyst | B.Sc. Student Online Media**  
 📍 Germany | [🌐 LinkedIn](DEIN_LINKEDIN_LINK) | [💻 GitHub](https://github.com/OliwiaLili)
 
----
+
 
 ### 👤 Profile
 Analytical Data Analyst with a solid foundation in Software Development and an academic focus on Computer Science and Marketing. Specializing in leveraging data science methodologies to bridge the gap between technical data pipelines and strategic business insights.
@@ -33,6 +33,8 @@ Analytical Data Analyst with a solid foundation in Software Development and an a
 
 
  Key Projects
+
+--
 ---
 
 ### 🌟 Featured Projects
