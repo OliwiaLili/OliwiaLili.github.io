@@ -7,6 +7,12 @@
 ###👤 Profile
 Analytical Data Analyst with a solid foundation in Software Development and an academic focus on Computer Science and Marketing. Specializing in leveraging data science methodologies to bridge the gap between technical data pipelines and strategic business insights.
 
+### 💼 Experience
+
+* **09/2018 - 02/2019**  
+  **awinta GmbH** | Long-term Intern (Part-time, 1 day/week)
+  * Gained initial insights into software structures, database workflows, and IT environments parallel to secondary school.
+
 
 ### 🎓 Education 
 
@@ -18,22 +24,18 @@ Analytical Data Analyst with a solid foundation in Software Development and an a
   **Jacob-Ellrod-Realschule** | Secondary School Certificate *(Mittlere Reife)*
 
 
-### 💼 Experience
 
-* **09/2018 - 02/2019**  
-  **awinta GmbH** | Long-term Intern (Part-time, 1 day/week)
-  * Gained initial insights into software structures, database workflows, and IT environments parallel to secondary school.
 
 
 ### 🛠️ Technical Skills
 
-* **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL, R
-* **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn
+* **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL
+* **Data Visualization:** Tableau, Matplotlib, Seaborn
 * **Tools & DevOps:** Git/GitHub, Docker, Jupyter Notebooks
-* **Frameworks & Methods:** Agile Software Development (Scrum), Cross-Cultural Collaboration
+* **Frameworks & Methods:** Agile Software Development (Scrum)
 
 
-# Key Projects
+#Key Projects
 ---
 
 ### 🌟 Featured Projects
