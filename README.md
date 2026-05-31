@@ -1,4 +1,5 @@
-## Oliwia Szczerba
+# Oliwia Szczerba
+---
 **Data Analyst | B.Sc. Student Online Media**  
 📍 Germany | [🌐 LinkedIn](DEIN_LINKEDIN_LINK) | [💻 GitHub](https://github.com/OliwiaLili)
 
