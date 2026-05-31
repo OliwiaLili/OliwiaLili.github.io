@@ -24,9 +24,6 @@ Analytical Data Analyst with a solid foundation in Software Development and an a
   **Jacob-Ellrod-Realschule** | Secondary School Certificate *(Mittlere Reife)*
 
 
-
-
-
 ### 🛠️ Technical Skills
 
 * **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL
