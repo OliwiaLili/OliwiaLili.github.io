@@ -35,7 +35,7 @@ Analytical Data Analyst with a solid foundation in Software Development and an a
 * **Frameworks & Methods:** Agile Software Development (Scrum)
 
 
-#Key Projects
+# Key Projects
 ---
 
 ### 🌟 Featured Projects
