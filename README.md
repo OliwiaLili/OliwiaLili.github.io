@@ -1,4 +1,4 @@
-## Oliwia Szczerba
+# Oliwia Szczerba
 **Data Analyst | B.Sc. Student Online Media**  
 📍 Germany | [🌐 LinkedIn](DEIN_LINKEDIN_LINK) | [💻 GitHub](https://github.com/OliwiaLili)
 
@@ -32,7 +32,7 @@ Analytical Data Analyst with a solid foundation in Software Development and an a
 * **Frameworks & Methods:** Agile Software Development (Scrum)
 
 
-# Key Projects
+ Key Projects
 ---
 
 ### 🌟 Featured Projects
