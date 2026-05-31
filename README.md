@@ -1,10 +1,10 @@
-# Oliwia Szczerba
+## Oliwia Szczerba
 **Data Analyst | B.Sc. Student Online Media**  
 📍 Germany | [🌐 LinkedIn](DEIN_LINKEDIN_LINK) | [💻 GitHub](https://github.com/OliwiaLili)
 
 ---
 
-###👤 Profile
+### 👤 Profile
 Analytical Data Analyst with a solid foundation in Software Development and an academic focus on Computer Science and Marketing. Specializing in leveraging data science methodologies to bridge the gap between technical data pipelines and strategic business insights.
 
 ### 💼 Experience
@@ -26,7 +26,7 @@ Analytical Data Analyst with a solid foundation in Software Development and an a
 
 ### 🛠️ Technical Skills
 
-* **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL
+* **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL, Java, Javascript, C#
 * **Data Visualization:** Tableau, Matplotlib, Seaborn
 * **Tools & DevOps:** Git/GitHub, Docker, Jupyter Notebooks
 * **Frameworks & Methods:** Agile Software Development (Scrum)
