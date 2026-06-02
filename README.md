@@ -65,7 +65,7 @@ Academically, my studies focus on the intersection of **Computer Science and Mar
 
 ### 📚 Academic & International Projects
 
-* **International Data Science Short-Course (South Korea)**  
+* **International Data Science 3-week Course (Summer School at the Ajou University in South Korea)**  
   Completed a foundational Data Science program abroad. Developed a localized data insights presentation, strengthening cross-cultural communication and presenting analytics in an international environment.
 
 * **Data Mining Team Project (1st Semester)**  
