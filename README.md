@@ -7,7 +7,7 @@
 ### 👤 Profile
 Driven by a deep curiosity and a passion for continuous learning, I love teaching myself new topics, diving into new activities, and solving complex puzzles. 
 
-Academically, my studies focus on the intersection of **Computer Science and Marketing**. During this journey, I discovered my true passion for **Data Analytics**— because it connects technical data infrastructures, business strategy and user behavior. Through solo initiatives and academic group projects, I have focused on building solid foundation for analytical thinking, data wrangling, and predictive modeling.
+Academically, my studies focus on the intersection of **Computer Science and Marketing**. During this journey, I discovered my true passion for **Data Analytics** because it connects technical data infrastructures, business strategy and user behavior. Through solo initiatives and academic group projects, I have focused on building solid foundation for analytical thinking, data wrangling, and predictive modeling.
 
 
 ### 💼 Experience
