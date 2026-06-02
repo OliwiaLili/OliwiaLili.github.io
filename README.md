@@ -44,7 +44,7 @@ Academically, my studies focus on the intersection of **Computer Science and Mar
 ### 🛠️ Technical Skills
 
 * **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL, Java, Javascript, C#
-* **Web Technologies:** HTML, CSS, Javascript
+* **Web Technologies:** HTML, CSS
 * **Data Visualization:** Tableau, Matplotlib, Seaborn, Looker Studio, Google Analytics
 * **Tools & DevOps:** Git/GitHub, Docker, Kubernetes, Git/GitHub, Jupyter Notebooks
 * **Frameworks & Methods:** Agile Software Development (Scrum), Bootstrap
