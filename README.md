@@ -1,19 +1,17 @@
 # Oliwia Szczerba
 
-**Data Analyst** | **B.Sc. Student Online Media**
+**Data Analyst & AI Automation Developer** | **B.Sc. Student Online Media**
 📍 Germany | [🌐 LinkedIn](https://www.linkedin.com/in/oliwia-szczerba) | [💻 GitHub](https://github.com/OliwiaLili)
 
 
 ### 👤 Profile
-Driven by a deep curiosity and a passion for continuous learning, I love teaching myself new topics, diving into new activities, and solving complex puzzles. 
-
-Academically, my studies focus on the intersection of **Computer Science and Marketing**. During this journey, I discovered my true passion for **Data Analytics** because it connects technical data infrastructures, business strategy and user behavior. Through solo initiatives and academic group projects, I have focused on building solid foundation for analytical thinking, data wrangling, and predictive modeling.
+Driven by deep curiosity and a passion for continuous learning, I enjoy teaching myself new topics and solving complex, process-oriented problems. My work sits at the intersection of **data analytics and automation**. I'm equally motivated by uncovering insights in data and by building systems that remove manual, repetitive work from workflows. My academic and professional background spans data wrangling, predictive modeling, and automated testing pipelines using modern AI tooling (LLM-based test agents, browser automation via MCP), giving me a practical, hands-on foundation across both the analytical and automation sides of software development.
 
 
 ### 💼 Experience
 
-**Conrad Electronic SE** | *Dual Study Program Rotations (09/2023 - 10/2026):*
-* **DevOps & Software Evaluation (6th Phase):** Writing Bachelor's Thesis: *"Evaluation of AI for Conducting Black-Box Testing"*.
+**Conrad Electronic SE** | *Dual Study Program Rotations (09/2023 - 9/2026):*
+* **DevOps & Software Evaluation (6th Phase):** Bachelor's Thesis — *"Evaluation of AI for Conducting Black-Box Testing"*. Built an automated LLM-based testing pipeline comparing Claude via CLI and two other AI-integrated automation Tools, using the Model Context Protocol (MCP) for browser control (evaluated Playwright MCP, Chrome DevTools MCP, Puppeteer MCP, and mcp-chrome as execution layers). Developed prompt-engineering strategies for consistent automated HTML test report generation and a cross-session learning mechanism to improve flakiness measurement over time.
 * **DevOps & Cloud Engineering (5th Phase):** Hands-on experience with Kubernetes environments.
 * **SEO & Web Content Analytics (4th Phase):** Automated manual analytical tasks. Visualized e-commerce shop performance and data trends using **Looker Studio** and **Google Analytics**.
 * **Marketplace Strategy (3rd Phase):** Analyzed partner shop integrations and marketplace structures.
@@ -33,7 +31,7 @@ Academically, my studies focus on the intersection of **Computer Science and Mar
 
 ### 🎓 Education 
 
-* **09/2023 - 10/2026**  
+* **09/2023 - 9/2026**  
   **Conrad Electronic SE** | Dual Study Program: B.Sc. Online Media
 * **09/2020 - 07/2023**  
   **BSZ Wiesau** | State-Certified Computer Science Expert in Agile Software Development *(Fachinformatiker Anwendungsentwicklung)* & Technical College Entrance Qualification *(Fachabitur, graduated with honors)*
@@ -43,10 +41,12 @@ Academically, my studies focus on the intersection of **Computer Science and Mar
 
 ### 🛠️ Technical Skills
 
-* **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL, Java, Javascript, C#
+* **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL, Java, JavaScript, C#
+* **Automation & Testing:** Playwright, Model Context Protocol (MCP), Prompt Engineering, CI/CD pipelines
+* **AI/LLM Tooling:** Claude API, Gemini API, LLM-based test/data imputation
 * **Web Technologies:** HTML, CSS
 * **Data Visualization:** Tableau, Matplotlib, Seaborn, Looker Studio, Google Analytics
-* **Tools & DevOps:** Git/GitHub, Docker, Kubernetes, Git/GitHub, Jupyter Notebooks
+* **Tools & DevOps:** Git/GitHub, Docker, Kubernetes, Jupyter Notebooks
 * **Frameworks & Methods:** Agile Software Development (Scrum), Bootstrap
 
 
