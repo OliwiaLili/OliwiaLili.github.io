@@ -11,7 +11,7 @@ Driven by deep curiosity and a passion for continuous learning, I enjoy teaching
 ### 💼 Experience
 
 **Conrad Electronic SE** | *Dual Study Program Rotations (09/2023 - 9/2026):*
-* **DevOps & Software Evaluation (6th Phase):** Bachelor's Thesis — *"Evaluation of AI for Conducting Black-Box Testing"*. Built an automated LLM-based testing pipeline comparing Claude via CLI and two other AI-integrated automation Tools, using the Model Context Protocol (MCP) for browser control (evaluated Playwright MCP, Chrome DevTools MCP, Puppeteer MCP, and mcp-chrome as execution layers). Developed prompt-engineering strategies for consistent automated HTML test report generation and a cross-session learning mechanism to improve flakiness measurement over time.
+* **DevOps & Software Evaluation (6th Phase):** Bachelor's Thesis — *"Evaluation of AI for Conducting Black-Box Testing"*. Built an automated black-box testing pipeline comparing an LLM-based agent (Claude, controlled via the Model Context Protocol for browser automation) against three established test automation frameworks: Katalon Studio, Playwright, and Selenium. Developed prompt-engineering strategies for consistent automated HTML test report generation and a cross-session learning mechanism to improve flakiness measurement over time.
 * **DevOps & Cloud Engineering (5th Phase):** Hands-on experience with Kubernetes environments.
 * **SEO & Web Content Analytics (4th Phase):** Automated manual analytical tasks. Visualized e-commerce shop performance and data trends using **Looker Studio** and **Google Analytics**.
 * **Marketplace Strategy (3rd Phase):** Analyzed partner shop integrations and marketplace structures.
